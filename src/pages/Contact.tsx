@@ -243,11 +243,11 @@ const Contact = () => {
                 },
                 {
                   question: 'Are your safaris suitable for families with children?',
-                  answer: 'Yes, we offer family-friendly safari packages and can customize itineraries to suit families with children of all ages. Many lodges and camps have family accommodations and activities specifically designed for younger visitors. We'll help you choose the most appropriate options based on your children\'s ages and interests.'
+                  answer: "Yes, we offer family-friendly safari packages and can customize itineraries to suit families with children of all ages. Many lodges and camps have family accommodations and activities specifically designed for younger visitors. We will help you choose the most appropriate options based on your children's ages and interests."
                 },
                 {
                   question: 'What health precautions should I take before traveling to Kenya?',
-                  answer: 'Visitors to Kenya should consult with a travel doctor 4-8 weeks before departure. Typical recommendations include vaccines for yellow fever (required for entry), typhoid, hepatitis A, and taking antimalarial medication. It\'s also advisable to bring a basic first aid kit and any personal medications you may need.'
+                  answer: "Visitors to Kenya should consult with a travel doctor 4-8 weeks before departure. Typical recommendations include vaccines for yellow fever (required for entry), typhoid, hepatitis A, and taking antimalarial medication. It's also advisable to bring a basic first aid kit and any personal medications you may need."
                 }
               ].map((faq, index) => (
                 <div key={index} className="bg-white p-6 shadow-sm">

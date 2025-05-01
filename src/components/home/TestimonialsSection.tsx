@@ -36,7 +36,7 @@ const testimonials: Testimonial[] = [
     location: 'Mumbai, India',
     image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80&w=120&h=120',
     rating: 5,
-    text: 'From the coastal beaches to the Maasai Mara, our two-week safari was absolutely perfect. Our guide James was exceptional - his knowledge of wildlife and photography tips made our trip unforgettable. Sakabaka's attention to detail is outstanding.'
+    text: 'From the coastal beaches to the Maasai Mara, our two-week safari was absolutely perfect. Our guide James was exceptional - his knowledge of wildlife and photography tips made our trip unforgettable. Sakabaka\'s attention to detail is outstanding.'
   },
   {
     id: 4,
